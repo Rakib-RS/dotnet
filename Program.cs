@@ -1,15 +1,11 @@
-﻿#include "sum.cs"
-#include "mul.cs"
-using System;
+﻿using System;
 
-namespace c_2
+namespace dotnet
 {
     class Program
     {
         static void Main(string[] args)
         {
-            sum();
-            mul();
             Console.WriteLine("Hello World!");
         }
     }

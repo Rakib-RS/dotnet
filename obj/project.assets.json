@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
+    "C:\\Users\\GOLAM RABBI\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\software development lab\\colabrator\\c-2\\c-2.csproj",
-      "projectName": "c-2",
-      "projectPath": "R:\\software development lab\\colabrator\\c-2\\c-2.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "R:\\software development lab\\colabrator\\c-2\\obj\\",
+      "projectUniqueName": "C:\\Users\\GOLAM RABBI\\Desktop\\dotnet\\dotnet\\dotnet.csproj",
+      "projectName": "dotnet",
+      "projectPath": "C:\\Users\\GOLAM RABBI\\Desktop\\dotnet\\dotnet\\dotnet.csproj",
+      "packagesPath": "C:\\Users\\GOLAM RABBI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GOLAM RABBI\\Desktop\\dotnet\\dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GOLAM RABBI\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
